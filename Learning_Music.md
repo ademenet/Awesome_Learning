@@ -7,6 +7,7 @@ Feel free to contribute!
 - [Musical theory](#musical-theory)
 - [Blogs](#blogs)
 - [Groups](#groups)
+- [Tools](#tools)
 - [Other awesome lists](#other-awesome-lists)
 
 ## Musical theory
@@ -16,6 +17,9 @@ Feel free to contribute!
 - ❤️ 📖 [Music for geeks and nerds](https://pedrokroger.net/mfgan/) - Learn music theory though programming exercises!
   For geeks and nerds for sure but not only.
 - [Open Music Theory](http://openmusictheory.com/) - A well-known textbook about music theory.
+- [Teoria](http://teoria.com/) - Music theory with exercises.
+- [Dave Conservatoire](http://www.daveconservatoire.org/) - Considered by some like the Khan Academy for music.
+- [Music Theory for Musicians and Normal People](http://tobyrush.com/theorypages/index.html) - Music theory cheatsheet.
 
 ## Blogs
 
@@ -25,7 +29,10 @@ Feel free to contribute!
 
 ## Groups
 
+## Tools
 
+- [Chord progression generator](https://chordch.art/) - Find chord progression easily.
+- [Chord generator](https://www.pkmurphy.com.au/chordgenerator/) - Generate all chords for a given key and scale.
 
 ## Other awesome lists
 
