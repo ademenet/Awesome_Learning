@@ -38,3 +38,9 @@ Feel free to contribute!
 ## Other awesome lists
 
 - [Awesome Music](https://github.com/ciconia/awesome-music)
+
+---
+
+- [Paper about Flow Machines](https://www.csl.sony.fr/downloads/papers/2015/ghedini-15b.pdf) - From [François
+  Pachet](https://www.francoispachet.fr/phdphd_committees-html/) and his team a software that helps musicians to get
+  inspire.
