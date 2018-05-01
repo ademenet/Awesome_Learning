@@ -44,3 +44,4 @@ Feel free to contribute!
 - [Paper about Flow Machines](https://www.csl.sony.fr/downloads/papers/2015/ghedini-15b.pdf) - From [François
   Pachet](https://www.francoispachet.fr/phdphd_committees-html/) and his team a software that helps musicians to get
   inspire.
+- [Reddit music generated using my rnn](https://www.reddit.com/r/MachineLearning/comments/6476kj/projectmusic_generated_using_my_rnn_some_bach/)
