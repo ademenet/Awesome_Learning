@@ -39,9 +39,47 @@ Feel free to contribute!
 
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 
----
+## Music generation
+
+These are links relative to music generation using neural networks or algorithm.
 
 - [Paper about Flow Machines](https://www.csl.sony.fr/downloads/papers/2015/ghedini-15b.pdf) - From [François
   Pachet](https://www.francoispachet.fr/phdphd_committees-html/) and his team a software that helps musicians to get
   inspire.
-- [Reddit music generated using my rnn](https://www.reddit.com/r/MachineLearning/comments/6476kj/projectmusic_generated_using_my_rnn_some_bach/)
+- [Music Generation by Deep Learning – Challenges and Directions](https://arxiv.org/pdf/1712.04371.pdf) - Paper by
+  François Pachet and Jean-Pierre Briot about the state-of-the-art in term of deep learning music generation.
+- [Reddit music generated using my
+  rnn](https://www.reddit.com/r/MachineLearning/comments/6476kj/projectmusic_generated_using_my_rnn_some_bach/)
+- [Another interesting
+  Reddit](https://www.reddit.com/r/MachineLearning/comments/3l6ia0/deephear_composing_and_harmonizing_music_with/)
+  conversation.
+- [Create with AI Twitter](https://twitter.com/createwithai)
+- [WaveGan](https://chrisdonahue.github.io/wavegan/) - [Code](https://github.com/chrisdonahue/wavegan) and
+  [paper](https://github.com/chrisdonahue/wavegan)
+- [Music Information Retrieval](https://musicinformationretrieval.com/)
+- [CNN Acapella extraction](http://madebyoll.in/posts/cnn_acapella_extraction/)
+- [Good article about music
+  generation](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
+
+### Google experiments
+
+Google did a bunch of really nice experiments [using
+MusicVAE]](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae)
+([article](https://magenta.tensorflow.org/music-vae)).
+
+- [Latent Loop](https://teampieshop.github.io/latent-loops/)
+- [Beat blender](https://experiments.withgoogle.com/ai/beat-blender) -
+  [Github](https://github.com/googlecreativelab/beat-blender)
+- [Melody mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/) -
+  [Github](https://github.com/googlecreativelab/melody-mixer)
+- [Neural drum machine density](https://codepen.io/teropa/pen/RMGxOQ)
+- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine) -
+  [Github](https://github.com/googlecreativelab/aiexperiments-drum-machine)
+
+## Live music coding
+
+- [Demo](https://livestream.com/internetsociety/alt-ai/videos/124463976)
+
+## Resources
+
+- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
