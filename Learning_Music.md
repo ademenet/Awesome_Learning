@@ -64,7 +64,7 @@ These are links relative to music generation using neural networks or algorithm.
 ### Google experiments
 
 Google did a bunch of really nice experiments [using
-MusicVAE]](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae)
+MusicVAE](https://github.com/tensorflow/magenta/tree/master/magenta/models/music_vae)
 ([article](https://magenta.tensorflow.org/music-vae)).
 
 - [Latent Loop](https://teampieshop.github.io/latent-loops/)
