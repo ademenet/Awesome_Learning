@@ -38,6 +38,8 @@ Feel free to contribute!
 ## Other awesome lists
 
 - [Awesome Music](https://github.com/ciconia/awesome-music)
+- [Awesome live music coding](https://github.com/pjagielski/awesome-live-coding-music)
+- [Awesome livecoding](https://github.com/toplap/awesome-livecoding/blob/master/README.md)
 
 ## Music generation
 
@@ -60,6 +62,8 @@ These are links relative to music generation using neural networks or algorithm.
 - [CNN Acapella extraction](http://madebyoll.in/posts/cnn_acapella_extraction/)
 - [Good article about music
   generation](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
+- [Music composition and machine learning](https://sylvesterkaczmarek.com/blog/machine-learning-music-composition/) -
+  Good article with several algorithms names.
 
 ### Google experiments
 
@@ -79,6 +83,11 @@ MusicVAE](https://github.com/tensorflow/magenta/tree/master/magenta/models/music
 ## Live music coding
 
 - [Demo](https://livestream.com/internetsociety/alt-ai/videos/124463976)
+- [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/)
+
+### Tools
+
+- [Troop](https://github.com/qirky/Troop) - Collaborative live coding.
 
 ## Resources
 
