@@ -92,3 +92,12 @@ MusicVAE](https://github.com/tensorflow/magenta/tree/master/magenta/models/music
 ## Resources
 
 - [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
+
+
+## Live coding music
+
+- [Ycombinator discussion](https://news.ycombinator.com/item?id=11033953)
+- [Controlling Sonic Pi From Vim (or Anywhere Else)](http://widdersh.in/controlling-sonic-pi-from-vim-or-anywhere-else/)
+- [Sonic Pi keyboard shortcuts](http://www.svdk.fr/sonic-pi-keyboard-shortcuts/)
+- [Good gist: deepbass](https://gist.github.com/mbutz/abb83d038fdcfe2a01752b54ea08e504)
+- [Aerodynamic in SonicPi](https://aimxhaisse.com/aerodynamic-en.html)
